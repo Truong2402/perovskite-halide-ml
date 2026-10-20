@@ -1,6 +1,6 @@
 # Quy tắc hình học hay học máy? Dự đoán khả năng hình thành perovskite halide
 
-Đề tài sinh viên năm nhất (môn Nhập môn ngành). Nhóm so sánh các quy tắc hình học
+Đề tài môn giới thiệu ngành khoa học vật liệu HCMUS. Nhóm so sánh các quy tắc hình học
 (hệ số dung sai Goldschmidt *t*, hệ số bát diện *μ*, hệ số *τ* của Bartel và cộng sự)
 với mô hình học máy đơn giản. Câu hỏi chính: kết quả có còn đúng khi mô hình phải
 dự đoán một nhóm hoá học chưa từng thấy hay không.
