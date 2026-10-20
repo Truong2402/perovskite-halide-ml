@@ -1,0 +1,30 @@
+[project]
+name = "material-ml"
+version = "0.1.0"
+description = "Học máy dự đoán tính chất vật liệu (đề tài sinh viên)"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "scipy",
+    "matplotlib",
+    "seaborn",
+    "jupyterlab",
+    "ipykernel",
+    "joblib",
+    "python-dotenv",
+]
+
+[project.optional-dependencies]
+# Cài khi cần: uv sync --extra materials
+materials = ["pymatgen", "matminer", "mp-api", "setuptools<81"]  # matminer còn dùng pkg_resources
+
+[dependency-groups]
+dev = ["ruff", "pytest", "nbstripout"]
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

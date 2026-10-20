@@ -1,0 +1,33 @@
+{
+  "data": "data/raw/TableS1.csv (halide F/Cl/Br/I)",
+  "n_samples": 207,
+  "n_perovskite": 81,
+  "features_ml": [
+    "rA",
+    "rB",
+    "rX",
+    "nA",
+    "t",
+    "mu"
+  ],
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "n_folds": 5,
+  "tau_check": {
+    "n": 35,
+    "accuracy_out_of_sample": 0.943,
+    "accuracy_in_sample": 0.907
+  },
+  "python": "3.12.15",
+  "sklearn": "1.9.1"
+}

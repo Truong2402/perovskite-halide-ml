@@ -1,0 +1,24 @@
+,,accuracy,accuracy,balanced_accuracy,balanced_accuracy
+,,mean,std,mean,std
+scheme,model,,,,
+Ngẫu nhiên,Đa số (baseline),0.609,0.0,0.5,0.0
+Ngẫu nhiên,Quy tắc t,0.58,0.0,0.65,0.0
+Ngẫu nhiên,Quy tắc t + μ,0.865,0.007,0.879,0.008
+Ngẫu nhiên,τ (Bartel),0.913,0.0,0.918,0.0
+Ngẫu nhiên,Hồi quy logistic,0.79,0.008,0.797,0.007
+Ngẫu nhiên,Cây quyết định,0.934,0.01,0.932,0.012
+Ngẫu nhiên,Random forest,0.925,0.009,0.923,0.01
+Theo cation B,Đa số (baseline),0.609,0.0,0.5,0.0
+Theo cation B,Quy tắc t,0.58,0.0,0.65,0.0
+Theo cation B,Quy tắc t + μ,0.851,0.007,0.862,0.01
+Theo cation B,τ (Bartel),0.913,0.0,0.918,0.0
+Theo cation B,Hồi quy logistic,0.771,0.023,0.779,0.02
+Theo cation B,Cây quyết định,0.91,0.013,0.903,0.012
+Theo cation B,Random forest,0.918,0.013,0.914,0.013
+Theo halide X,Đa số (baseline),0.609,0.0,0.5,0.0
+Theo halide X,Quy tắc t,0.58,0.0,0.65,0.0
+Theo halide X,Quy tắc t + μ,0.845,0.0,0.855,0.0
+Theo halide X,τ (Bartel),0.913,0.0,0.918,0.0
+Theo halide X,Hồi quy logistic,0.705,0.0,0.694,0.0
+Theo halide X,Cây quyết định,0.86,0.0,0.832,0.0
+Theo halide X,Random forest,0.836,0.016,0.802,0.021

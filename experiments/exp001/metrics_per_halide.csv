@@ -1,0 +1,841 @@
+scheme,seed,model,X,accuracy
+Ngẫu nhiên,0,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,0,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,0,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,0,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,0,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,0,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,0,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,0,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,0,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,0,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,0,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,0,Quy tắc t + μ,I,0.8837209302325582
+Ngẫu nhiên,0,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,0,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,0,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,0,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,0,Hồi quy logistic,Br,0.8518518518518519
+Ngẫu nhiên,0,Hồi quy logistic,Cl,0.676056338028169
+Ngẫu nhiên,0,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,0,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,0,Cây quyết định,Br,1.0
+Ngẫu nhiên,0,Cây quyết định,Cl,0.9436619718309859
+Ngẫu nhiên,0,Cây quyết định,F,0.9090909090909091
+Ngẫu nhiên,0,Cây quyết định,I,0.9302325581395349
+Ngẫu nhiên,0,Random forest,Br,1.0
+Ngẫu nhiên,0,Random forest,Cl,0.9295774647887324
+Ngẫu nhiên,0,Random forest,F,0.8939393939393939
+Ngẫu nhiên,0,Random forest,I,0.8837209302325582
+Ngẫu nhiên,1,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,1,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,1,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,1,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,1,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,1,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,1,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,1,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,1,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,1,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,1,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,1,Quy tắc t + μ,I,0.8837209302325582
+Ngẫu nhiên,1,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,1,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,1,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,1,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,1,Hồi quy logistic,Br,0.8148148148148148
+Ngẫu nhiên,1,Hồi quy logistic,Cl,0.6338028169014085
+Ngẫu nhiên,1,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,1,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,1,Cây quyết định,Br,1.0
+Ngẫu nhiên,1,Cây quyết định,Cl,0.9577464788732394
+Ngẫu nhiên,1,Cây quyết định,F,0.9242424242424242
+Ngẫu nhiên,1,Cây quyết định,I,0.9302325581395349
+Ngẫu nhiên,1,Random forest,Br,1.0
+Ngẫu nhiên,1,Random forest,Cl,0.9436619718309859
+Ngẫu nhiên,1,Random forest,F,0.9242424242424242
+Ngẫu nhiên,1,Random forest,I,0.8837209302325582
+Ngẫu nhiên,2,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,2,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,2,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,2,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,2,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,2,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,2,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,2,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,2,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,2,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,2,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,2,Quy tắc t + μ,I,0.8372093023255814
+Ngẫu nhiên,2,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,2,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,2,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,2,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,2,Hồi quy logistic,Br,0.7777777777777778
+Ngẫu nhiên,2,Hồi quy logistic,Cl,0.647887323943662
+Ngẫu nhiên,2,Hồi quy logistic,F,0.8787878787878788
+Ngẫu nhiên,2,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,2,Cây quyết định,Br,1.0
+Ngẫu nhiên,2,Cây quyết định,Cl,0.9295774647887324
+Ngẫu nhiên,2,Cây quyết định,F,0.9393939393939394
+Ngẫu nhiên,2,Cây quyết định,I,0.9302325581395349
+Ngẫu nhiên,2,Random forest,Br,1.0
+Ngẫu nhiên,2,Random forest,Cl,0.9577464788732394
+Ngẫu nhiên,2,Random forest,F,0.9242424242424242
+Ngẫu nhiên,2,Random forest,I,0.9069767441860465
+Ngẫu nhiên,3,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,3,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,3,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,3,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,3,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,3,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,3,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,3,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,3,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,3,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,3,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,3,Quy tắc t + μ,I,0.8837209302325582
+Ngẫu nhiên,3,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,3,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,3,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,3,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,3,Hồi quy logistic,Br,0.8148148148148148
+Ngẫu nhiên,3,Hồi quy logistic,Cl,0.6619718309859155
+Ngẫu nhiên,3,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,3,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,3,Cây quyết định,Br,1.0
+Ngẫu nhiên,3,Cây quyết định,Cl,0.9577464788732394
+Ngẫu nhiên,3,Cây quyết định,F,0.9090909090909091
+Ngẫu nhiên,3,Cây quyết định,I,0.9069767441860465
+Ngẫu nhiên,3,Random forest,Br,1.0
+Ngẫu nhiên,3,Random forest,Cl,0.9295774647887324
+Ngẫu nhiên,3,Random forest,F,0.8939393939393939
+Ngẫu nhiên,3,Random forest,I,0.8837209302325582
+Ngẫu nhiên,4,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,4,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,4,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,4,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,4,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,4,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,4,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,4,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,4,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,4,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,4,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,4,Quy tắc t + μ,I,0.8837209302325582
+Ngẫu nhiên,4,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,4,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,4,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,4,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,4,Hồi quy logistic,Br,0.7777777777777778
+Ngẫu nhiên,4,Hồi quy logistic,Cl,0.647887323943662
+Ngẫu nhiên,4,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,4,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,4,Cây quyết định,Br,1.0
+Ngẫu nhiên,4,Cây quyết định,Cl,0.9577464788732394
+Ngẫu nhiên,4,Cây quyết định,F,0.9242424242424242
+Ngẫu nhiên,4,Cây quyết định,I,0.9069767441860465
+Ngẫu nhiên,4,Random forest,Br,1.0
+Ngẫu nhiên,4,Random forest,Cl,0.9295774647887324
+Ngẫu nhiên,4,Random forest,F,0.9090909090909091
+Ngẫu nhiên,4,Random forest,I,0.9069767441860465
+Ngẫu nhiên,5,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,5,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,5,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,5,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,5,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,5,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,5,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,5,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,5,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,5,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,5,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,5,Quy tắc t + μ,I,0.8372093023255814
+Ngẫu nhiên,5,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,5,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,5,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,5,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,5,Hồi quy logistic,Br,0.8888888888888888
+Ngẫu nhiên,5,Hồi quy logistic,Cl,0.647887323943662
+Ngẫu nhiên,5,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,5,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,5,Cây quyết định,Br,0.9629629629629629
+Ngẫu nhiên,5,Cây quyết định,Cl,0.9436619718309859
+Ngẫu nhiên,5,Cây quyết định,F,0.8636363636363636
+Ngẫu nhiên,5,Cây quyết định,I,0.9534883720930233
+Ngẫu nhiên,5,Random forest,Br,1.0
+Ngẫu nhiên,5,Random forest,Cl,0.9295774647887324
+Ngẫu nhiên,5,Random forest,F,0.8939393939393939
+Ngẫu nhiên,5,Random forest,I,0.9302325581395349
+Ngẫu nhiên,6,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,6,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,6,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,6,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,6,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,6,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,6,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,6,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,6,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,6,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,6,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,6,Quy tắc t + μ,I,0.8837209302325582
+Ngẫu nhiên,6,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,6,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,6,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,6,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,6,Hồi quy logistic,Br,0.8518518518518519
+Ngẫu nhiên,6,Hồi quy logistic,Cl,0.6619718309859155
+Ngẫu nhiên,6,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,6,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,6,Cây quyết định,Br,1.0
+Ngẫu nhiên,6,Cây quyết định,Cl,0.9577464788732394
+Ngẫu nhiên,6,Cây quyết định,F,0.9090909090909091
+Ngẫu nhiên,6,Cây quyết định,I,0.9302325581395349
+Ngẫu nhiên,6,Random forest,Br,1.0
+Ngẫu nhiên,6,Random forest,Cl,0.9295774647887324
+Ngẫu nhiên,6,Random forest,F,0.8939393939393939
+Ngẫu nhiên,6,Random forest,I,0.9069767441860465
+Ngẫu nhiên,7,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,7,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,7,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,7,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,7,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,7,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,7,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,7,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,7,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,7,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,7,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,7,Quy tắc t + μ,I,0.8837209302325582
+Ngẫu nhiên,7,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,7,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,7,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,7,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,7,Hồi quy logistic,Br,0.8148148148148148
+Ngẫu nhiên,7,Hồi quy logistic,Cl,0.647887323943662
+Ngẫu nhiên,7,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,7,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,7,Cây quyết định,Br,0.9629629629629629
+Ngẫu nhiên,7,Cây quyết định,Cl,0.9577464788732394
+Ngẫu nhiên,7,Cây quyết định,F,0.9242424242424242
+Ngẫu nhiên,7,Cây quyết định,I,0.8604651162790697
+Ngẫu nhiên,7,Random forest,Br,1.0
+Ngẫu nhiên,7,Random forest,Cl,0.9436619718309859
+Ngẫu nhiên,7,Random forest,F,0.8939393939393939
+Ngẫu nhiên,7,Random forest,I,0.8372093023255814
+Ngẫu nhiên,8,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,8,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,8,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,8,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,8,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,8,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,8,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,8,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,8,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,8,Quy tắc t + μ,Cl,0.8591549295774648
+Ngẫu nhiên,8,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,8,Quy tắc t + μ,I,0.8372093023255814
+Ngẫu nhiên,8,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,8,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,8,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,8,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,8,Hồi quy logistic,Br,0.8518518518518519
+Ngẫu nhiên,8,Hồi quy logistic,Cl,0.647887323943662
+Ngẫu nhiên,8,Hồi quy logistic,F,0.8787878787878788
+Ngẫu nhiên,8,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,8,Cây quyết định,Br,1.0
+Ngẫu nhiên,8,Cây quyết định,Cl,0.9577464788732394
+Ngẫu nhiên,8,Cây quyết định,F,0.8939393939393939
+Ngẫu nhiên,8,Cây quyết định,I,0.9069767441860465
+Ngẫu nhiên,8,Random forest,Br,1.0
+Ngẫu nhiên,8,Random forest,Cl,0.9295774647887324
+Ngẫu nhiên,8,Random forest,F,0.8939393939393939
+Ngẫu nhiên,8,Random forest,I,0.8604651162790697
+Ngẫu nhiên,9,Đa số (baseline),Br,0.8148148148148148
+Ngẫu nhiên,9,Đa số (baseline),Cl,0.7464788732394366
+Ngẫu nhiên,9,Đa số (baseline),F,0.22727272727272727
+Ngẫu nhiên,9,Đa số (baseline),I,0.8372093023255814
+Ngẫu nhiên,9,Quy tắc t,Br,0.5555555555555556
+Ngẫu nhiên,9,Quy tắc t,Cl,0.5070422535211268
+Ngẫu nhiên,9,Quy tắc t,F,0.8333333333333334
+Ngẫu nhiên,9,Quy tắc t,I,0.32558139534883723
+Ngẫu nhiên,9,Quy tắc t + μ,Br,0.9629629629629629
+Ngẫu nhiên,9,Quy tắc t + μ,Cl,0.8169014084507042
+Ngẫu nhiên,9,Quy tắc t + μ,F,0.8333333333333334
+Ngẫu nhiên,9,Quy tắc t + μ,I,0.8604651162790697
+Ngẫu nhiên,9,τ (Bartel),Br,0.9259259259259259
+Ngẫu nhiên,9,τ (Bartel),Cl,0.9014084507042254
+Ngẫu nhiên,9,τ (Bartel),F,0.9242424242424242
+Ngẫu nhiên,9,τ (Bartel),I,0.9069767441860465
+Ngẫu nhiên,9,Hồi quy logistic,Br,0.9259259259259259
+Ngẫu nhiên,9,Hồi quy logistic,Cl,0.6197183098591549
+Ngẫu nhiên,9,Hồi quy logistic,F,0.8939393939393939
+Ngẫu nhiên,9,Hồi quy logistic,I,0.8372093023255814
+Ngẫu nhiên,9,Cây quyết định,Br,0.9629629629629629
+Ngẫu nhiên,9,Cây quyết định,Cl,0.9014084507042254
+Ngẫu nhiên,9,Cây quyết định,F,0.9242424242424242
+Ngẫu nhiên,9,Cây quyết định,I,0.8837209302325582
+Ngẫu nhiên,9,Random forest,Br,1.0
+Ngẫu nhiên,9,Random forest,Cl,0.9436619718309859
+Ngẫu nhiên,9,Random forest,F,0.9242424242424242
+Ngẫu nhiên,9,Random forest,I,0.8837209302325582
+Theo cation B,0,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,0,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,0,Đa số (baseline),F,0.22727272727272727
+Theo cation B,0,Đa số (baseline),I,0.8372093023255814
+Theo cation B,0,Quy tắc t,Br,0.5555555555555556
+Theo cation B,0,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,0,Quy tắc t,F,0.8333333333333334
+Theo cation B,0,Quy tắc t,I,0.32558139534883723
+Theo cation B,0,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,0,Quy tắc t + μ,Cl,0.8591549295774648
+Theo cation B,0,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,0,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,0,τ (Bartel),Br,0.9259259259259259
+Theo cation B,0,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,0,τ (Bartel),F,0.9242424242424242
+Theo cation B,0,τ (Bartel),I,0.9069767441860465
+Theo cation B,0,Hồi quy logistic,Br,0.7037037037037037
+Theo cation B,0,Hồi quy logistic,Cl,0.5492957746478874
+Theo cation B,0,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,0,Hồi quy logistic,I,0.7441860465116279
+Theo cation B,0,Cây quyết định,Br,0.9629629629629629
+Theo cation B,0,Cây quyết định,Cl,0.9436619718309859
+Theo cation B,0,Cây quyết định,F,0.8636363636363636
+Theo cation B,0,Cây quyết định,I,0.9069767441860465
+Theo cation B,0,Random forest,Br,1.0
+Theo cation B,0,Random forest,Cl,0.9577464788732394
+Theo cation B,0,Random forest,F,0.8787878787878788
+Theo cation B,0,Random forest,I,0.8837209302325582
+Theo cation B,1,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,1,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,1,Đa số (baseline),F,0.22727272727272727
+Theo cation B,1,Đa số (baseline),I,0.8372093023255814
+Theo cation B,1,Quy tắc t,Br,0.5555555555555556
+Theo cation B,1,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,1,Quy tắc t,F,0.8333333333333334
+Theo cation B,1,Quy tắc t,I,0.32558139534883723
+Theo cation B,1,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,1,Quy tắc t + μ,Cl,0.8169014084507042
+Theo cation B,1,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,1,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,1,τ (Bartel),Br,0.9259259259259259
+Theo cation B,1,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,1,τ (Bartel),F,0.9242424242424242
+Theo cation B,1,τ (Bartel),I,0.9069767441860465
+Theo cation B,1,Hồi quy logistic,Br,0.8148148148148148
+Theo cation B,1,Hồi quy logistic,Cl,0.6056338028169014
+Theo cation B,1,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,1,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,1,Cây quyết định,Br,0.9629629629629629
+Theo cation B,1,Cây quyết định,Cl,0.9154929577464789
+Theo cation B,1,Cây quyết định,F,0.9242424242424242
+Theo cation B,1,Cây quyết định,I,0.8604651162790697
+Theo cation B,1,Random forest,Br,1.0
+Theo cation B,1,Random forest,Cl,0.9577464788732394
+Theo cation B,1,Random forest,F,0.8636363636363636
+Theo cation B,1,Random forest,I,0.8837209302325582
+Theo cation B,2,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,2,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,2,Đa số (baseline),F,0.22727272727272727
+Theo cation B,2,Đa số (baseline),I,0.8372093023255814
+Theo cation B,2,Quy tắc t,Br,0.5555555555555556
+Theo cation B,2,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,2,Quy tắc t,F,0.8333333333333334
+Theo cation B,2,Quy tắc t,I,0.32558139534883723
+Theo cation B,2,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,2,Quy tắc t + μ,Cl,0.8028169014084507
+Theo cation B,2,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,2,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,2,τ (Bartel),Br,0.9259259259259259
+Theo cation B,2,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,2,τ (Bartel),F,0.9242424242424242
+Theo cation B,2,τ (Bartel),I,0.9069767441860465
+Theo cation B,2,Hồi quy logistic,Br,0.7407407407407407
+Theo cation B,2,Hồi quy logistic,Cl,0.676056338028169
+Theo cation B,2,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,2,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,2,Cây quyết định,Br,0.9629629629629629
+Theo cation B,2,Cây quyết định,Cl,0.8873239436619719
+Theo cation B,2,Cây quyết định,F,0.9242424242424242
+Theo cation B,2,Cây quyết định,I,0.813953488372093
+Theo cation B,2,Random forest,Br,1.0
+Theo cation B,2,Random forest,Cl,0.9577464788732394
+Theo cation B,2,Random forest,F,0.8787878787878788
+Theo cation B,2,Random forest,I,0.8837209302325582
+Theo cation B,3,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,3,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,3,Đa số (baseline),F,0.22727272727272727
+Theo cation B,3,Đa số (baseline),I,0.8372093023255814
+Theo cation B,3,Quy tắc t,Br,0.5555555555555556
+Theo cation B,3,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,3,Quy tắc t,F,0.8333333333333334
+Theo cation B,3,Quy tắc t,I,0.32558139534883723
+Theo cation B,3,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,3,Quy tắc t + μ,Cl,0.8591549295774648
+Theo cation B,3,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,3,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,3,τ (Bartel),Br,0.9259259259259259
+Theo cation B,3,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,3,τ (Bartel),F,0.9242424242424242
+Theo cation B,3,τ (Bartel),I,0.9069767441860465
+Theo cation B,3,Hồi quy logistic,Br,0.8148148148148148
+Theo cation B,3,Hồi quy logistic,Cl,0.647887323943662
+Theo cation B,3,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,3,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,3,Cây quyết định,Br,1.0
+Theo cation B,3,Cây quyết định,Cl,0.9154929577464789
+Theo cation B,3,Cây quyết định,F,0.9242424242424242
+Theo cation B,3,Cây quyết định,I,0.8837209302325582
+Theo cation B,3,Random forest,Br,1.0
+Theo cation B,3,Random forest,Cl,0.9577464788732394
+Theo cation B,3,Random forest,F,0.8787878787878788
+Theo cation B,3,Random forest,I,0.8837209302325582
+Theo cation B,4,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,4,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,4,Đa số (baseline),F,0.22727272727272727
+Theo cation B,4,Đa số (baseline),I,0.8372093023255814
+Theo cation B,4,Quy tắc t,Br,0.5555555555555556
+Theo cation B,4,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,4,Quy tắc t,F,0.8333333333333334
+Theo cation B,4,Quy tắc t,I,0.32558139534883723
+Theo cation B,4,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,4,Quy tắc t + μ,Cl,0.8169014084507042
+Theo cation B,4,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,4,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,4,τ (Bartel),Br,0.9259259259259259
+Theo cation B,4,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,4,τ (Bartel),F,0.9242424242424242
+Theo cation B,4,τ (Bartel),I,0.9069767441860465
+Theo cation B,4,Hồi quy logistic,Br,0.7407407407407407
+Theo cation B,4,Hồi quy logistic,Cl,0.6338028169014085
+Theo cation B,4,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,4,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,4,Cây quyết định,Br,0.9629629629629629
+Theo cation B,4,Cây quyết định,Cl,0.9154929577464789
+Theo cation B,4,Cây quyết định,F,0.9242424242424242
+Theo cation B,4,Cây quyết định,I,0.8837209302325582
+Theo cation B,4,Random forest,Br,1.0
+Theo cation B,4,Random forest,Cl,0.9577464788732394
+Theo cation B,4,Random forest,F,0.8787878787878788
+Theo cation B,4,Random forest,I,0.8604651162790697
+Theo cation B,5,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,5,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,5,Đa số (baseline),F,0.22727272727272727
+Theo cation B,5,Đa số (baseline),I,0.8372093023255814
+Theo cation B,5,Quy tắc t,Br,0.5555555555555556
+Theo cation B,5,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,5,Quy tắc t,F,0.8333333333333334
+Theo cation B,5,Quy tắc t,I,0.32558139534883723
+Theo cation B,5,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,5,Quy tắc t + μ,Cl,0.8169014084507042
+Theo cation B,5,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,5,Quy tắc t + μ,I,0.8837209302325582
+Theo cation B,5,τ (Bartel),Br,0.9259259259259259
+Theo cation B,5,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,5,τ (Bartel),F,0.9242424242424242
+Theo cation B,5,τ (Bartel),I,0.9069767441860465
+Theo cation B,5,Hồi quy logistic,Br,0.7037037037037037
+Theo cation B,5,Hồi quy logistic,Cl,0.6338028169014085
+Theo cation B,5,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,5,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,5,Cây quyết định,Br,0.9629629629629629
+Theo cation B,5,Cây quyết định,Cl,0.9154929577464789
+Theo cation B,5,Cây quyết định,F,0.9242424242424242
+Theo cation B,5,Cây quyết định,I,0.8837209302325582
+Theo cation B,5,Random forest,Br,1.0
+Theo cation B,5,Random forest,Cl,0.9577464788732394
+Theo cation B,5,Random forest,F,0.8939393939393939
+Theo cation B,5,Random forest,I,0.9069767441860465
+Theo cation B,6,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,6,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,6,Đa số (baseline),F,0.22727272727272727
+Theo cation B,6,Đa số (baseline),I,0.8372093023255814
+Theo cation B,6,Quy tắc t,Br,0.5555555555555556
+Theo cation B,6,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,6,Quy tắc t,F,0.8333333333333334
+Theo cation B,6,Quy tắc t,I,0.32558139534883723
+Theo cation B,6,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,6,Quy tắc t + μ,Cl,0.8169014084507042
+Theo cation B,6,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,6,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,6,τ (Bartel),Br,0.9259259259259259
+Theo cation B,6,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,6,τ (Bartel),F,0.9242424242424242
+Theo cation B,6,τ (Bartel),I,0.9069767441860465
+Theo cation B,6,Hồi quy logistic,Br,0.7407407407407407
+Theo cation B,6,Hồi quy logistic,Cl,0.5633802816901409
+Theo cation B,6,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,6,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,6,Cây quyết định,Br,0.9629629629629629
+Theo cation B,6,Cây quyết định,Cl,0.9014084507042254
+Theo cation B,6,Cây quyết định,F,0.8787878787878788
+Theo cation B,6,Cây quyết định,I,0.8604651162790697
+Theo cation B,6,Random forest,Br,0.9629629629629629
+Theo cation B,6,Random forest,Cl,0.9436619718309859
+Theo cation B,6,Random forest,F,0.8787878787878788
+Theo cation B,6,Random forest,I,0.8604651162790697
+Theo cation B,7,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,7,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,7,Đa số (baseline),F,0.22727272727272727
+Theo cation B,7,Đa số (baseline),I,0.8372093023255814
+Theo cation B,7,Quy tắc t,Br,0.5555555555555556
+Theo cation B,7,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,7,Quy tắc t,F,0.8333333333333334
+Theo cation B,7,Quy tắc t,I,0.32558139534883723
+Theo cation B,7,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,7,Quy tắc t + μ,Cl,0.8169014084507042
+Theo cation B,7,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,7,Quy tắc t + μ,I,0.8837209302325582
+Theo cation B,7,τ (Bartel),Br,0.9259259259259259
+Theo cation B,7,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,7,τ (Bartel),F,0.9242424242424242
+Theo cation B,7,τ (Bartel),I,0.9069767441860465
+Theo cation B,7,Hồi quy logistic,Br,0.7407407407407407
+Theo cation B,7,Hồi quy logistic,Cl,0.6619718309859155
+Theo cation B,7,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,7,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,7,Cây quyết định,Br,0.9629629629629629
+Theo cation B,7,Cây quyết định,Cl,0.9577464788732394
+Theo cation B,7,Cây quyết định,F,0.9090909090909091
+Theo cation B,7,Cây quyết định,I,0.8604651162790697
+Theo cation B,7,Random forest,Br,0.9629629629629629
+Theo cation B,7,Random forest,Cl,0.9577464788732394
+Theo cation B,7,Random forest,F,0.8636363636363636
+Theo cation B,7,Random forest,I,0.8837209302325582
+Theo cation B,8,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,8,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,8,Đa số (baseline),F,0.22727272727272727
+Theo cation B,8,Đa số (baseline),I,0.8372093023255814
+Theo cation B,8,Quy tắc t,Br,0.5555555555555556
+Theo cation B,8,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,8,Quy tắc t,F,0.8333333333333334
+Theo cation B,8,Quy tắc t,I,0.32558139534883723
+Theo cation B,8,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,8,Quy tắc t + μ,Cl,0.8169014084507042
+Theo cation B,8,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,8,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,8,τ (Bartel),Br,0.9259259259259259
+Theo cation B,8,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,8,τ (Bartel),F,0.9242424242424242
+Theo cation B,8,τ (Bartel),I,0.9069767441860465
+Theo cation B,8,Hồi quy logistic,Br,0.8148148148148148
+Theo cation B,8,Hồi quy logistic,Cl,0.6901408450704225
+Theo cation B,8,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,8,Hồi quy logistic,I,0.8372093023255814
+Theo cation B,8,Cây quyết định,Br,0.9259259259259259
+Theo cation B,8,Cây quyết định,Cl,0.9014084507042254
+Theo cation B,8,Cây quyết định,F,0.8636363636363636
+Theo cation B,8,Cây quyết định,I,0.8837209302325582
+Theo cation B,8,Random forest,Br,0.9629629629629629
+Theo cation B,8,Random forest,Cl,0.9014084507042254
+Theo cation B,8,Random forest,F,0.8484848484848485
+Theo cation B,8,Random forest,I,0.8837209302325582
+Theo cation B,9,Đa số (baseline),Br,0.8148148148148148
+Theo cation B,9,Đa số (baseline),Cl,0.7464788732394366
+Theo cation B,9,Đa số (baseline),F,0.22727272727272727
+Theo cation B,9,Đa số (baseline),I,0.8372093023255814
+Theo cation B,9,Quy tắc t,Br,0.5555555555555556
+Theo cation B,9,Quy tắc t,Cl,0.5070422535211268
+Theo cation B,9,Quy tắc t,F,0.8333333333333334
+Theo cation B,9,Quy tắc t,I,0.32558139534883723
+Theo cation B,9,Quy tắc t + μ,Br,0.9629629629629629
+Theo cation B,9,Quy tắc t + μ,Cl,0.8591549295774648
+Theo cation B,9,Quy tắc t + μ,F,0.8333333333333334
+Theo cation B,9,Quy tắc t + μ,I,0.8372093023255814
+Theo cation B,9,τ (Bartel),Br,0.9259259259259259
+Theo cation B,9,τ (Bartel),Cl,0.9014084507042254
+Theo cation B,9,τ (Bartel),F,0.9242424242424242
+Theo cation B,9,τ (Bartel),I,0.9069767441860465
+Theo cation B,9,Hồi quy logistic,Br,0.7407407407407407
+Theo cation B,9,Hồi quy logistic,Cl,0.6197183098591549
+Theo cation B,9,Hồi quy logistic,F,0.8939393939393939
+Theo cation B,9,Hồi quy logistic,I,0.813953488372093
+Theo cation B,9,Cây quyết định,Br,0.9629629629629629
+Theo cation B,9,Cây quyết định,Cl,0.9577464788732394
+Theo cation B,9,Cây quyết định,F,0.9090909090909091
+Theo cation B,9,Cây quyết định,I,0.8372093023255814
+Theo cation B,9,Random forest,Br,1.0
+Theo cation B,9,Random forest,Cl,0.971830985915493
+Theo cation B,9,Random forest,F,0.8939393939393939
+Theo cation B,9,Random forest,I,0.8837209302325582
+Theo halide X,0,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,0,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,0,Đa số (baseline),F,0.22727272727272727
+Theo halide X,0,Đa số (baseline),I,0.8372093023255814
+Theo halide X,0,Quy tắc t,Br,0.5555555555555556
+Theo halide X,0,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,0,Quy tắc t,F,0.8333333333333334
+Theo halide X,0,Quy tắc t,I,0.32558139534883723
+Theo halide X,0,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,0,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,0,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,0,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,0,τ (Bartel),Br,0.9259259259259259
+Theo halide X,0,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,0,τ (Bartel),F,0.9242424242424242
+Theo halide X,0,τ (Bartel),I,0.9069767441860465
+Theo halide X,0,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,0,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,0,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,0,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,0,Cây quyết định,Br,1.0
+Theo halide X,0,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,0,Cây quyết định,F,0.7121212121212122
+Theo halide X,0,Cây quyết định,I,0.9069767441860465
+Theo halide X,0,Random forest,Br,1.0
+Theo halide X,0,Random forest,Cl,0.9154929577464789
+Theo halide X,0,Random forest,F,0.5757575757575758
+Theo halide X,0,Random forest,I,0.9069767441860465
+Theo halide X,1,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,1,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,1,Đa số (baseline),F,0.22727272727272727
+Theo halide X,1,Đa số (baseline),I,0.8372093023255814
+Theo halide X,1,Quy tắc t,Br,0.5555555555555556
+Theo halide X,1,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,1,Quy tắc t,F,0.8333333333333334
+Theo halide X,1,Quy tắc t,I,0.32558139534883723
+Theo halide X,1,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,1,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,1,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,1,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,1,τ (Bartel),Br,0.9259259259259259
+Theo halide X,1,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,1,τ (Bartel),F,0.9242424242424242
+Theo halide X,1,τ (Bartel),I,0.9069767441860465
+Theo halide X,1,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,1,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,1,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,1,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,1,Cây quyết định,Br,1.0
+Theo halide X,1,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,1,Cây quyết định,F,0.7121212121212122
+Theo halide X,1,Cây quyết định,I,0.9069767441860465
+Theo halide X,1,Random forest,Br,1.0
+Theo halide X,1,Random forest,Cl,0.9154929577464789
+Theo halide X,1,Random forest,F,0.6212121212121212
+Theo halide X,1,Random forest,I,0.9302325581395349
+Theo halide X,2,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,2,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,2,Đa số (baseline),F,0.22727272727272727
+Theo halide X,2,Đa số (baseline),I,0.8372093023255814
+Theo halide X,2,Quy tắc t,Br,0.5555555555555556
+Theo halide X,2,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,2,Quy tắc t,F,0.8333333333333334
+Theo halide X,2,Quy tắc t,I,0.32558139534883723
+Theo halide X,2,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,2,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,2,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,2,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,2,τ (Bartel),Br,0.9259259259259259
+Theo halide X,2,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,2,τ (Bartel),F,0.9242424242424242
+Theo halide X,2,τ (Bartel),I,0.9069767441860465
+Theo halide X,2,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,2,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,2,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,2,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,2,Cây quyết định,Br,1.0
+Theo halide X,2,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,2,Cây quyết định,F,0.7121212121212122
+Theo halide X,2,Cây quyết định,I,0.9069767441860465
+Theo halide X,2,Random forest,Br,1.0
+Theo halide X,2,Random forest,Cl,0.9154929577464789
+Theo halide X,2,Random forest,F,0.6212121212121212
+Theo halide X,2,Random forest,I,0.9069767441860465
+Theo halide X,3,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,3,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,3,Đa số (baseline),F,0.22727272727272727
+Theo halide X,3,Đa số (baseline),I,0.8372093023255814
+Theo halide X,3,Quy tắc t,Br,0.5555555555555556
+Theo halide X,3,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,3,Quy tắc t,F,0.8333333333333334
+Theo halide X,3,Quy tắc t,I,0.32558139534883723
+Theo halide X,3,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,3,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,3,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,3,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,3,τ (Bartel),Br,0.9259259259259259
+Theo halide X,3,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,3,τ (Bartel),F,0.9242424242424242
+Theo halide X,3,τ (Bartel),I,0.9069767441860465
+Theo halide X,3,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,3,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,3,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,3,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,3,Cây quyết định,Br,1.0
+Theo halide X,3,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,3,Cây quyết định,F,0.7121212121212122
+Theo halide X,3,Cây quyết định,I,0.9069767441860465
+Theo halide X,3,Random forest,Br,1.0
+Theo halide X,3,Random forest,Cl,0.9154929577464789
+Theo halide X,3,Random forest,F,0.5454545454545454
+Theo halide X,3,Random forest,I,0.9302325581395349
+Theo halide X,4,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,4,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,4,Đa số (baseline),F,0.22727272727272727
+Theo halide X,4,Đa số (baseline),I,0.8372093023255814
+Theo halide X,4,Quy tắc t,Br,0.5555555555555556
+Theo halide X,4,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,4,Quy tắc t,F,0.8333333333333334
+Theo halide X,4,Quy tắc t,I,0.32558139534883723
+Theo halide X,4,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,4,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,4,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,4,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,4,τ (Bartel),Br,0.9259259259259259
+Theo halide X,4,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,4,τ (Bartel),F,0.9242424242424242
+Theo halide X,4,τ (Bartel),I,0.9069767441860465
+Theo halide X,4,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,4,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,4,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,4,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,4,Cây quyết định,Br,1.0
+Theo halide X,4,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,4,Cây quyết định,F,0.7121212121212122
+Theo halide X,4,Cây quyết định,I,0.9069767441860465
+Theo halide X,4,Random forest,Br,1.0
+Theo halide X,4,Random forest,Cl,0.9154929577464789
+Theo halide X,4,Random forest,F,0.6212121212121212
+Theo halide X,4,Random forest,I,0.9302325581395349
+Theo halide X,5,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,5,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,5,Đa số (baseline),F,0.22727272727272727
+Theo halide X,5,Đa số (baseline),I,0.8372093023255814
+Theo halide X,5,Quy tắc t,Br,0.5555555555555556
+Theo halide X,5,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,5,Quy tắc t,F,0.8333333333333334
+Theo halide X,5,Quy tắc t,I,0.32558139534883723
+Theo halide X,5,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,5,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,5,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,5,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,5,τ (Bartel),Br,0.9259259259259259
+Theo halide X,5,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,5,τ (Bartel),F,0.9242424242424242
+Theo halide X,5,τ (Bartel),I,0.9069767441860465
+Theo halide X,5,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,5,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,5,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,5,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,5,Cây quyết định,Br,1.0
+Theo halide X,5,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,5,Cây quyết định,F,0.7121212121212122
+Theo halide X,5,Cây quyết định,I,0.9069767441860465
+Theo halide X,5,Random forest,Br,1.0
+Theo halide X,5,Random forest,Cl,0.9154929577464789
+Theo halide X,5,Random forest,F,0.7121212121212122
+Theo halide X,5,Random forest,I,0.9069767441860465
+Theo halide X,6,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,6,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,6,Đa số (baseline),F,0.22727272727272727
+Theo halide X,6,Đa số (baseline),I,0.8372093023255814
+Theo halide X,6,Quy tắc t,Br,0.5555555555555556
+Theo halide X,6,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,6,Quy tắc t,F,0.8333333333333334
+Theo halide X,6,Quy tắc t,I,0.32558139534883723
+Theo halide X,6,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,6,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,6,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,6,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,6,τ (Bartel),Br,0.9259259259259259
+Theo halide X,6,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,6,τ (Bartel),F,0.9242424242424242
+Theo halide X,6,τ (Bartel),I,0.9069767441860465
+Theo halide X,6,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,6,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,6,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,6,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,6,Cây quyết định,Br,1.0
+Theo halide X,6,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,6,Cây quyết định,F,0.7121212121212122
+Theo halide X,6,Cây quyết định,I,0.9069767441860465
+Theo halide X,6,Random forest,Br,1.0
+Theo halide X,6,Random forest,Cl,0.9154929577464789
+Theo halide X,6,Random forest,F,0.696969696969697
+Theo halide X,6,Random forest,I,0.9069767441860465
+Theo halide X,7,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,7,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,7,Đa số (baseline),F,0.22727272727272727
+Theo halide X,7,Đa số (baseline),I,0.8372093023255814
+Theo halide X,7,Quy tắc t,Br,0.5555555555555556
+Theo halide X,7,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,7,Quy tắc t,F,0.8333333333333334
+Theo halide X,7,Quy tắc t,I,0.32558139534883723
+Theo halide X,7,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,7,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,7,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,7,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,7,τ (Bartel),Br,0.9259259259259259
+Theo halide X,7,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,7,τ (Bartel),F,0.9242424242424242
+Theo halide X,7,τ (Bartel),I,0.9069767441860465
+Theo halide X,7,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,7,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,7,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,7,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,7,Cây quyết định,Br,1.0
+Theo halide X,7,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,7,Cây quyết định,F,0.7121212121212122
+Theo halide X,7,Cây quyết định,I,0.9069767441860465
+Theo halide X,7,Random forest,Br,1.0
+Theo halide X,7,Random forest,Cl,0.9154929577464789
+Theo halide X,7,Random forest,F,0.6212121212121212
+Theo halide X,7,Random forest,I,0.9069767441860465
+Theo halide X,8,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,8,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,8,Đa số (baseline),F,0.22727272727272727
+Theo halide X,8,Đa số (baseline),I,0.8372093023255814
+Theo halide X,8,Quy tắc t,Br,0.5555555555555556
+Theo halide X,8,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,8,Quy tắc t,F,0.8333333333333334
+Theo halide X,8,Quy tắc t,I,0.32558139534883723
+Theo halide X,8,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,8,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,8,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,8,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,8,τ (Bartel),Br,0.9259259259259259
+Theo halide X,8,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,8,τ (Bartel),F,0.9242424242424242
+Theo halide X,8,τ (Bartel),I,0.9069767441860465
+Theo halide X,8,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,8,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,8,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,8,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,8,Cây quyết định,Br,1.0
+Theo halide X,8,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,8,Cây quyết định,F,0.7121212121212122
+Theo halide X,8,Cây quyết định,I,0.9069767441860465
+Theo halide X,8,Random forest,Br,1.0
+Theo halide X,8,Random forest,Cl,0.9154929577464789
+Theo halide X,8,Random forest,F,0.6212121212121212
+Theo halide X,8,Random forest,I,0.9069767441860465
+Theo halide X,9,Đa số (baseline),Br,0.8148148148148148
+Theo halide X,9,Đa số (baseline),Cl,0.7464788732394366
+Theo halide X,9,Đa số (baseline),F,0.22727272727272727
+Theo halide X,9,Đa số (baseline),I,0.8372093023255814
+Theo halide X,9,Quy tắc t,Br,0.5555555555555556
+Theo halide X,9,Quy tắc t,Cl,0.5070422535211268
+Theo halide X,9,Quy tắc t,F,0.8333333333333334
+Theo halide X,9,Quy tắc t,I,0.32558139534883723
+Theo halide X,9,Quy tắc t + μ,Br,0.9629629629629629
+Theo halide X,9,Quy tắc t + μ,Cl,0.8169014084507042
+Theo halide X,9,Quy tắc t + μ,F,0.8333333333333334
+Theo halide X,9,Quy tắc t + μ,I,0.8372093023255814
+Theo halide X,9,τ (Bartel),Br,0.9259259259259259
+Theo halide X,9,τ (Bartel),Cl,0.9014084507042254
+Theo halide X,9,τ (Bartel),F,0.9242424242424242
+Theo halide X,9,τ (Bartel),I,0.9069767441860465
+Theo halide X,9,Hồi quy logistic,Br,0.8518518518518519
+Theo halide X,9,Hồi quy logistic,Cl,0.6056338028169014
+Theo halide X,9,Hồi quy logistic,F,0.6666666666666666
+Theo halide X,9,Hồi quy logistic,I,0.8372093023255814
+Theo halide X,9,Cây quyết định,Br,1.0
+Theo halide X,9,Cây quyết định,Cl,0.9154929577464789
+Theo halide X,9,Cây quyết định,F,0.7121212121212122
+Theo halide X,9,Cây quyết định,I,0.9069767441860465
+Theo halide X,9,Random forest,Br,1.0
+Theo halide X,9,Random forest,Cl,0.9154929577464789
+Theo halide X,9,Random forest,F,0.696969696969697
+Theo halide X,9,Random forest,I,0.9069767441860465

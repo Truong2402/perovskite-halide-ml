@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# dữ liệu lớn: theo dõi bằng data_card, không đưa vào git
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+experiments/*/artifacts/
